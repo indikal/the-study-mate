@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "study-mate-angular": {
+      "hosting": {
+        "the-study-mate": [
+          "study-mate-angular"
+        ]
+      }
+    }
+  }
+}
